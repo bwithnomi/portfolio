@@ -44,7 +44,7 @@ export default function Home() {
           <p className="text-2xl">Abid</p>
           <p className="font-bold text-8xl text-orange-500">Noman</p>
         </p>
-        <div className="grid grid-cols-4 grid-rows-2 w-full h-[400] gap-4">
+        <div className="grid grid-cols-2 grid-rows-1 w-full h-[400] gap-4 md:grid-cols-4 md:grid-rows-2 px-4 md:px-0">
           <div className="flex flex-col justify-between col-span-2 row-span-2 bg-blue-700 w-full rounded-4xl relative overflow-hidden whitespace-nowrap">
             <div className=""></div>
             <motion.div
