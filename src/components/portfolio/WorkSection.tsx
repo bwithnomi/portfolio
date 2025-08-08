@@ -25,7 +25,7 @@ const WorkSection = () => {
                 Solana | Rust | React
               </p>
             </div>
-            <div className="bg-orange-500 lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto">
+            <div className="bg-slate-700 lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto">
               <p className="font-bold lg:text-lg text-md text-center font-sans">
                 E-Commerce Pet Store
               </p>
@@ -41,7 +41,7 @@ const WorkSection = () => {
                 Laravel | Vue.js | PostgreSQL
               </p>
             </div>
-            <div className="bg-yellow-300 lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto text-black">
+            <div className="bg-white lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto text-black">
               <p className="font-bold lg:text-lg text-md text-center font-sans">
                 Lawyer App
               </p>
@@ -49,7 +49,7 @@ const WorkSection = () => {
                 Node.js | Vue.js | MongoDb
               </p>
             </div>
-            <div className="bg-blue-700 lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto">
+            <div className="bg-zinc-700 lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto">
               <p className="font-bold lg:text-lg text-md text-center font-sans">
                 NFT Marketplace
               </p>
@@ -65,7 +65,7 @@ const WorkSection = () => {
                 Ethereum | Node.js | Vue.js | MongoDb
               </p>
             </div>
-            <div className="bg-white text-black lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto">
+            <div className="bg-neutral-700 text-white lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto">
               <p className="font-bold lg:text-lg text-md text-center font-sans">
                 Crypto Wallet
               </p>
@@ -73,7 +73,7 @@ const WorkSection = () => {
                 Ethereum | Nest.js | React.js | MongoDb | PostgreSQL
               </p>
             </div>
-            <div className="bg-yellow-300 text-black lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto">
+            <div className="bg-gray-300 text-black lg:p-4 p-2 rounded-lg lg:basis-auto basis-auto w-auto lg:w-auto">
               <p className="font-bold lg:text-lg text-md text-center font-sans">HRM</p>
               <p className="font-mono lg:text-sm text-xs text-center">
                 Laravel | Vue.js | MySql
