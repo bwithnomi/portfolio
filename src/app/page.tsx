@@ -10,6 +10,7 @@ import HeroSection from "@/components/portfolio/HeroSection";
 import AboutSection from "@/components/portfolio/AboutSection";
 import WorkSection from "@/components/portfolio/WorkSection";
 import ContactSection from "@/components/portfolio/ContactSection";
+import ProjectSection from "@/components/portfolio/ProjectSection";
 
 export default function Home() {
   const mouseX = useMotionValue(0);
@@ -46,10 +47,13 @@ export default function Home() {
       <HeroSection></HeroSection>
 
       {/* Section 2 */}
+      <AboutSection/>
+
+      {/* Section 3 */}
       <WorkSection/>
 
       {/* Section 3 */}
-      <AboutSection/>
+      <ProjectSection/>
 
       {/* Section 4 */}
       <ContactSection/>
